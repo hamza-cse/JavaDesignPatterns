@@ -11,6 +11,9 @@ package SingleTone;
  * @author Amir
  */
 public class CDPSingleToneMain {
+    
+     private static CDPSingleToneMain obj=new CDPSingleToneMain();
+    private CDPSingleToneMain(){}
 
     /**
      * @param args the command line arguments
