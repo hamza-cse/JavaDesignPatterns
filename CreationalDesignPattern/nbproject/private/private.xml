@@ -5,6 +5,7 @@
         <group>
             <file>file:/D:/GitHubPublicRepo/JavaDesignPatterns/CreationalDesignPattern/src/SingleTone/SingleTone.java</file>
             <file>file:/D:/GitHubPublicRepo/JavaDesignPatterns/CreationalDesignPattern/src/SingleTone/DoubleCheckSingleTone.java</file>
+            <file>file:/D:/GitHubPublicRepo/JavaDesignPatterns/CreationalDesignPattern/src/SingleTone/EnumSingleTOne.java</file>
             <file>file:/D:/GitHubPublicRepo/JavaDesignPatterns/CreationalDesignPattern/src/SingleTone/LazySingleTone.java</file>
             <file>file:/D:/GitHubPublicRepo/JavaDesignPatterns/CreationalDesignPattern/src/SingleTone/Main.java</file>
             <file>file:/D:/GitHubPublicRepo/JavaDesignPatterns/CreationalDesignPattern/src/SingleTone/SynchronizedSingleTone.java</file>
